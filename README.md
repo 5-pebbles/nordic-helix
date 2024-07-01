@@ -32,6 +32,6 @@ black2 = "#BF616A" # make the background (and anything else that uses black2) re
 
 ## 🎨 Palette
 
-Colors are defined in the palette section of [this file:](./nordic.toml)
+All colors are defined in the palette section of [this file:](./nordic.toml)
 
 ![image](./assets/palette.png)
