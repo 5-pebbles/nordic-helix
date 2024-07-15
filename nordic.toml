@@ -6,12 +6,12 @@
 # Syntax Highlighting
 "attribute" = { fg = "yellow_base" }
 "type" = { fg = "yellow_bright" }
-"type.enum.variant" = { fg = "cyan_bright"}
+"type.enum.variant" = { fg = "cyan_bright" }
 "constructor" = { fg = "cyan_bright" }
 "constant" = { fg = "magenta_bright" }
 "constant.character" = { fg = "green_base" }
 "constant.character.escape" = { fg = "magenta_bright" }
-"string" = { fg = "green_base"}
+"string" = { fg = "green_base" }
 "string.regex" = { fg = "magenta_bright" }
 "comment" = { fg = "gray4", modifiers = ["italic"] }
 "variable" = { fg = "white0" }
@@ -50,7 +50,7 @@
 "ui.background" = { fg = "white0", bg = "black2" }
 "ui.cursor" = { fg = "black1", bg = "gray4" }
 "ui.cursor.primary" = { fg = "black1", bg = "white0" }
-"ui.cursor.match" = { modifiers = ["bold"] } 
+"ui.cursor.match" = { modifiers = ["bold"] }
 "ui.linenr" = { fg = "gray2" }
 "ui.linenr.selected" = { fg = "gray4" }
 "ui.statusline" = { fg = "white0", bg = "black0" }
@@ -59,7 +59,7 @@
 "ui.window" = { fg = "gray4" }
 "ui.help" = { bg = "black1" }
 "ui.text.focus" = { bg = "gray2" }
-"ui.virtual.ruler" = { bg = "gray1"}
+"ui.virtual.ruler" = { bg = "gray1" }
 "ui.menu" = { bg = "black1" }
 "ui.menu.selected" = { bg = "gray4" }
 "ui.menu.scroll" = { fg = "gray4", bg = "gray0" } # fg sets thumb color, bg sets track color of scrollbar
