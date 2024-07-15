@@ -1,5 +1,7 @@
 # Nordic theme for Helix
 # From https://github.com/5-pebbles/nordic-helix
+# Author : Owen Friedman <5-pebble@protonmail.com>
+# License: MIT License
 
 # Syntax Highlighting
 "attribute" = { fg = "yellow_base" }
