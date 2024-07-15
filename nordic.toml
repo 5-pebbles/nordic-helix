@@ -59,12 +59,12 @@
 "ui.window" = { fg = "gray4" }
 "ui.help" = { bg = "black1" }
 "ui.text.focus" = { bg = "gray2" }
-"ui.virtual.ruler" = { fg = "black1", bg = "yellow_base"}
+"ui.virtual.ruler" = { bg = "gray1"}
 "ui.menu" = { bg = "black1" }
 "ui.menu.selected" = { bg = "gray4" }
 "ui.menu.scroll" = { fg = "gray4", bg = "gray0" } # fg sets thumb color, bg sets track color of scrollbar
-"ui.selection" = { bg = "gray1" }
-"ui.cursorline.primary" = { bg = "gray0" }
+"ui.selection" = { bg = "gray2" }
+"ui.cursorline.primary" = { bg = "gray1" }
 
 # Diagnostic Messages
 "error" = { fg = "red_base" }
